@@ -2,4 +2,5 @@
     <string name="app_name">Biblioteca Nacional - Consulta</string>
     <string name="no_search_result_text">No hay resultados</string>
     <string name="search_hint">Buscar</string>
+    <string name="layout_name">Búsqueda</string>
 </resources>
